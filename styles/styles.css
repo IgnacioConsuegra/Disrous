@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+:root{
+
+    --principal-color:;
+    --secondary-color:;
+    --background-color:;
+    --text-size:;
+    --tittle-size:;
+    --tittle-font:;
+    --text-font:;
+    --boder-buttons:;
+    /* i dont know, ignacio from the future, good luck :v */
+
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
